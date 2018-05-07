@@ -1,3 +1,11 @@
+<h2>Instruções para a movimentação da câmera</h2>
+
+- A tecla 'd' rotaciona a matriz ModelView no eixo y, sentido anti-horário.
+- A tecla 'a' rotaciona a matriz ModelView no eixo y, sentido horário.
+- A tecla 'w' escalona a matriz ModelView positivamente.
+- A tecla 's' escalona a matriz ModelView negativamente.
+
+<br/>
 <h2>Instruções para a compilação do código</h2>
 
 Em primeiro lugar, para a compilação é necessário que você tenha instalado em seu computador as seguintes livrarias:
@@ -37,7 +45,7 @@ Isso executará o Makefile, que compilará o código e criará um executável co
 
 > ./output
 
-
+<br/>
 <h4>Sobre as livrarias</h4>
 
 <h5>SDL2</h5>
